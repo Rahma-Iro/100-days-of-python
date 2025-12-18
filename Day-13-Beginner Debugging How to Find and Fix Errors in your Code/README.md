@@ -16,8 +16,7 @@ Welcome to **Day 13** of my Python journey! Today, we focused on **debugging**, 
   - [8. Rest Then Come Back](#8-rest-then-come-back)
   - [9. Run Your Code Often](#9-run-your-code-often)
   - [10. Ask a Friend or Use Stack Overflow](#10-ask-a-friend-or-use-stack-overflow)
-- [Coding Exercises](#coding-exercises)
-- [Key Takeaways](#key-takeaways)
+
 
 ---
 
@@ -25,6 +24,10 @@ Welcome to **Day 13** of my Python journey! Today, we focused on **debugging**, 
 
 ### 1. Describe the Problem
 Before attempting to fix a bug, clearly define **what the code is supposed to do**. Understanding the intended behavior helps you identify where it goes wrong.
+
+### 2. Reproduce the Bug
+Mentally step through the code line by line, as if you were the Python interpreter. This helps spot logical errors.
+
 ### 3. Play Computer and Evaluate Each Line
 Mentally step through the code line by line, as if you were the Python interpreter. This helps spot logical errors.
 
